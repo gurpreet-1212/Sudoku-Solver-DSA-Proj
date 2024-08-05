@@ -16,7 +16,7 @@ This project is a Sudoku solver implemented in Java using the NetBeans IDE.
 Install my-project with npm
 
 ```bash
-  git  https://github.com/SuryabhanRana/Sudoku_project/tree/master/sudoko_project
+  git https://github.com/gurpreet-1212/Sudoku-Solver-DSA-Proj/edit/master/Sudoku_project-master
 ```
 
 ## Process:
@@ -66,6 +66,4 @@ Once again, thank you to everyone who has played a part in this project. Your in
 - The object of the puzzle is to fill the remaining squares, using all the numbers 1–9 exactly once in each row, column, and the nine 3 × 3 subgrids.
 - we can easily execute this program with the help of this.
 
-## Feedback
 
-If you have any feedback, please reach out to us at suryabhanrana981@gmail.com
